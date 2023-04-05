@@ -1,2 +1,2 @@
-#Store
-small store using fakeStore API ().
+# React Store
+small store using fakeStore API https://fakestoreapi.com/docs.
